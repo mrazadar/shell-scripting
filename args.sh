@@ -13,4 +13,6 @@ e=$(pwd)
 echo "Var b is: $b" 
 echo "Var c is: $c" 
 echo "Var d is: $d" 
-echo "Var e is: $e" 
+echo "Var e is: $e"
+
+
